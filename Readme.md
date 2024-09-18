@@ -67,3 +67,6 @@ Use PyInstaller to create an executable for the client if needed, allowing for e
 
 ## Disclaimer
 This project is intended for educational purposes only and should not be used maliciously or to infringe on anyone's privacy. Always obtain explicit permission before using keylogging software in any environment.
+
+## TODO 
+Requirements
